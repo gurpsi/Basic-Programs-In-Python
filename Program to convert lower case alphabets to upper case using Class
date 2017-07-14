@@ -1,7 +1,4 @@
 class InputOutString():
-    #def inpu(sk):
-     #   sk.s = ""
-        
      def getString(sk):
          sk.s = input()
 
