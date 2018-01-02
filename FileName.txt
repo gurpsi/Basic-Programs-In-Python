@@ -1,0 +1,3 @@
+Hi there! 
+This will be in new line
+This is the appended part of the file.
