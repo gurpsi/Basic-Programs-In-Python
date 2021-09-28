@@ -1,5 +1,6 @@
 '''
 Sorting and Up-casing the 'n' number of string values.
+We use single asterisk. '*' and the return is a tuple.
 '''
 
 def up(*args):
